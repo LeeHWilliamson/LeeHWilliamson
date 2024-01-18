@@ -2,6 +2,6 @@ Hi. My name is Lee Williamson. I am currently taking online courses and hope to 
 
 - 🔭 I’m currently working on basic courses for CS degree in Texas with intent to transfer to a university in Fall 2024
 - 🌱 I’m currently learning arduino IDE
-- 👯 I’m looking to collaborate on anything involving embedded systems or firmware
+- 👯 I’m looking to collaborate on anything that may benefit a beginner, especially in the realm of embedded systems
 - 📫 How to reach me: lwilliamson15@collin.edu or leeroythuggin on Discord
 - 😄 Pronouns: He/his
