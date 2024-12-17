@@ -1,7 +1,1 @@
-Hi. My name is Lee Williamson. I am currently taking online courses and hope to begin a BS in CS in Fall 2024. I am most interested in writing code for embedded systems. My favorite language is c++.
-
-- 🔭 I’m currently working on basic courses for CS degree in Texas with intent to transfer to a university in Fall 2024
-- 🌱 I’m currently learning arduino IDE
-- 👯 I’m looking to collaborate on anything that may benefit a beginner, especially in the realm of embedded systems
-- 📫 How to reach me: lwilliamson15@collin.edu or leeroythuggin on Discord
-- 😄 Pronouns: He/his
+Hi. My name is Lee Williamson. I am a Computer Science student at the University of Houston. In a previous life, I conducted wildlife habitat and management research. 
